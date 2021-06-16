@@ -1,0 +1,17 @@
+.bg-grey{
+    padding: 3%;
+    background: rgba(54, 54, 54, 0.7);
+    border-radius: 30px;
+}
+
+.car-ex{
+    margin: 0 0 10vw 0;
+    padding: 3%;
+    background: rgba(54, 54, 54, 0.7);
+    border-radius: 30px;
+    font-size: calc(16px + 2vw);
+}
+
+#car-container{
+    background: rgba(224, 131, 131, 0.4);
+}
